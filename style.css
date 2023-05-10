@@ -1,0 +1,90 @@
+  @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+  @import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@1,400;1,700&display=swap');
+        
+        
+        body {
+            font-family: 'Merriweather', serif;
+            background-image: url(./Cloudy-Bg.svg);
+            background-size: cover;
+            background-repeat: no-repeat;
+        }
+
+
+        .brandFont {
+            font-family: 'Bebas Neue', sans-serif;
+            text-transform: uppercase;
+        }
+
+        /* Footer styles */
+        .footer {
+            width: 100%;
+            text-align: center;
+            padding: 30px 0;
+        }
+
+        .footer h4 {
+            margin-bottom: 25px;
+            margin-top: 20px;
+            font-weight: 600;
+        }
+
+        .icons .fa {
+            margin: 0 13px;
+            cursor: pointer;
+            padding: 18px 0;
+        }
+
+        /* //Footer styles */
+        /* 
+        /* Animation
+
+         .b {
+            animation: animate 3s;
+            animation-iteration-count: 5;
+        } 
+
+        @keyframes animate {
+            15% {
+                color: #FF0000;
+            }
+
+            30% {
+                color: #FFFF00;
+            }
+
+            50% {
+                color: #00FF00;
+            }
+
+            70% {
+                color: #FF00FF;
+            }
+
+            100% {
+                color: #003300;
+            }
+        }
+
+         .c {
+            animation: animatebg 3s;
+            animation-iteration-count: 5;
+        }
+
+        @keyframes animatebg {
+            20% {
+                background-color: lightblue;
+            }
+
+            40% {
+                background-color: lightgreen;
+            }
+
+            70% {
+                background-color: lightsalmon;
+            }
+
+            100% {
+                background-color: lightseagreen;
+            }
+        } 
+    */
